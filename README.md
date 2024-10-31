@@ -16,7 +16,7 @@ Clone the repository: https://github.com/Ayushj0704/perfect_GUess/tree/main
 
 bash
 Copy code
-git clone https://github.com/Ayushj0704/perfect_GUess/tree/main
+git clone : https://github.com/Ayushj0704/perfect_GUess/blob/main/rrandom.py
 cd random-guess-game
 Ensure Python 3.x is installed on your system. You can download it from python.org.
 

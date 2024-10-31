@@ -1,6 +1,6 @@
 # perfect_GUess
 # The Perfect Guess Game
-Overview
+Overview:
 The Random Guess Game is an interactive command-line game where the player attempts to guess a randomly generated number within a specified range. The game provides feedback on whether the guess is too high, too low, or correct, making it a fun way to practice number guessing skills.
 
 # Features
